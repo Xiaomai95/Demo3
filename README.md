@@ -10,3 +10,7 @@ Now another one.
 
 And another one.
 And one more.
+
+## Checking commits
+
+First commit.
