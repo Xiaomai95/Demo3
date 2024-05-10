@@ -14,3 +14,5 @@ And one more.
 ## Checking commits
 
 First commit.
+
+Second commit.
